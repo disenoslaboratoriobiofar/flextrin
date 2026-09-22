@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://flextrin.com.ve/sitemap.xml
+Sitemap: https://flextrin-web.disenoslaboratoriobiofar.workers.dev/sitemap.xml
